@@ -1,7 +1,8 @@
 #Geografiespiel mit einem Dictionary
 
 hauptstadt = {'Italien':'Rom', 'Spanien':'Madrid',
-              'Portugal':'Lissabon', 'der Schweiz':'Bern'}
+              'Portugal':'Lissabon', 'der Schweiz':'Bern',
+             'Frankreich':'Paris', 'Österreich':'Wien'}
 hs = hauptstadt.items()
 
 for land, stadt in hs:
